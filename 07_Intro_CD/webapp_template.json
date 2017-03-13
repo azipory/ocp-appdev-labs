@@ -99,7 +99,7 @@
                         "value": "http://${JENKINS_ROUTE}/job/webapp-war/lastSuccessfulBuild/artifact/target/session-replication.war"
                     }, {
                         "name": "DOWNLOAD_USER_CREDENTIALS",
-                        "value": "admin:admin123"
+                        "value": "admin:password"
                     }]
                 },
                 "type": "Source"

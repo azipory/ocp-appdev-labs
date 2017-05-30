@@ -16,7 +16,7 @@
             },
             "labels": {
                 "application": "webapp-${RUNTIME_ENVIRONMENT}",
-                "template": "eap6-basic-sti"
+                "template": "eap7-basic-sti"
             },
             "name": "webapp-${RUNTIME_ENVIRONMENT}"
         },
@@ -39,7 +39,7 @@
             },
             "labels": {
                 "application": "webapp-${RUNTIME_ENVIRONMENT}",
-                "template": "eap6-basic-sti"
+                "template": "eap7-basic-sti"
             },
             "name": "webapp-${RUNTIME_ENVIRONMENT}-http-route"
         },
@@ -55,7 +55,7 @@
         "metadata": {
             "labels": {
                 "application": "webapp-${RUNTIME_ENVIRONMENT}",
-                "template": "eap6-basic-sti"
+                "template": "eap7-basic-sti"
             },
             "name": "webapp"
         }
@@ -65,7 +65,7 @@
         "metadata": {
             "labels": {
                 "application": "webapp-${RUNTIME_ENVIRONMENT}",
-                "template": "eap6-basic-sti"
+                "template": "eap7-basic-sti"
             },
             "name": "webapp-${RUNTIME_ENVIRONMENT}"
         },
@@ -125,7 +125,7 @@
         "metadata": {
             "labels": {
                 "application": "webapp-${RUNTIME_ENVIRONMENT}",
-                "template": "eap6-basic-sti"
+                "template": "eap7-basic-sti"
             },
             "name": "webapp-${RUNTIME_ENVIRONMENT}"
         },
